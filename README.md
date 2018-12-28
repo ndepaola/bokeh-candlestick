@@ -2,7 +2,7 @@
 Simple and responsive candlestick chart in Python with Bokeh
 
 
-{::nomarkdown}
+
 
 
 
@@ -90,4 +90,4 @@ Simple and responsive candlestick chart in Python with Bokeh
   
 </html>
 
-{:/}
+
